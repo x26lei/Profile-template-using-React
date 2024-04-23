@@ -30,5 +30,4 @@ $ npm start
 ```
 which starts a server with hot reloading enabled. The application can be accessed at `http://localhost:3000`
 
-## Usage
 
